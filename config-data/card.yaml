@@ -5,5 +5,3 @@ spring.data.mongodb:
   host: localhost
   port: 27017
   database: dbcard
-  username: <mongodb_username>
-  password: <mongodb_password>
